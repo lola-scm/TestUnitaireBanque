@@ -3,7 +3,7 @@ Campus de Toulon.
 
 Partie A 
 
-Pour la casse Compte :
+Pour la partie Compte :
 
 La règle C3 ne fonctionnait pas, 
 car la fonction créditer, acceptait un montant nul
